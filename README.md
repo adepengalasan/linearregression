@@ -1,2 +1,2 @@
 # linearregression
-Tugas Linear Regression 
+Tugas Linear Regression Ade Pengalasan
